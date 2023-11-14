@@ -1,0 +1,124 @@
+/* styles.css */
+.container {
+  position: relative;
+}
+
+.background-image {
+  background-size: cover; /* Ensures the background covers the entire area */
+
+  width: 100%;
+  height: 600px;
+  width: 100%;
+ 
+}
+.container-fluid{
+  padding-right: 0px;
+  padding-left: 0px;
+  margin-right: auto;
+  margin-left: auto;
+
+}
+
+.above-image {
+  position: absolute;
+  top: 0;
+  left: 25%;
+  transform: translateX(-50%);
+  width: 8%;
+  z-index: 1;
+  filter: invert(100%) sepia(0%) saturate(0%) hue-rotate(0deg) brightness(100%) contrast(100%);
+ 
+  color:transparent;
+  }
+
+  .log{
+    border:1px solid white;
+ 
+    border-radius: 8px;
+  }
+  .ca{
+    border: 1px solid white;
+    border-radius: 8px;
+    border-color:#007BFF;
+   
+   
+  }
+ 
+  .df{
+    margin-left:853px;
+  }
+  .but{
+   margin-top: 330px;
+   margin-left: 350px;
+
+   position: absolute;
+  }
+  .reg {
+    border-radius: 8px;
+    position: relative;
+    border: none;
+    ;
+  
+   color: white;
+   font-size: 1.2em;
+   padding-left: 10px;
+
+  }
+  .logv{
+    border-radius: 8px;
+    font-size: 1.2em;
+    position: relative;
+    left: 28px;
+    border: none;
+    color:#4f4f4f ;
+
+  }
+  card shadow border{
+    width: 20px;
+  }
+  .cb{
+    margin-top:-90px;
+  }
+  .fs{
+    font-size: 18px;
+    color:#4f4f4f ;
+    
+  }
+  .t1{
+    letter-spacing:1px;
+  }
+  .list1{
+    left: 2px;
+  }
+.kkk {
+    line-height: 4;
+    font-size: 17px;
+  }
+  .lh{
+    line-height: 4;
+    font-size: 17px;
+  }
+  .fa-solid {
+    color:rgb(79, 192, 79);
+    size: 20px;
+  }
+  .txt{
+    line-height: 1.5;
+    font-size: 22px;
+    color:#4f4f4f ;
+    letter-spacing:1px;
+  }
+  .tx{
+    text-align: center;
+  }
+  button:focus {
+    border: none;
+  }
+
+ 
+   
+ 
+
+   
+
+

@@ -1,0 +1,123 @@
+
+*{
+    font-family:Okra,Helvetica, sans-serif;
+  }.nav1{
+    position: absolute;
+     top: 10px;
+     font-size: 20px;
+     padding-top: 2px;
+   
+     right: 243px;
+  
+  }
+  .img1{
+    position: relative;
+  }
+  .img2{
+   position: absolute;
+   top:280px;
+   width: 270px;
+  }
+  .img2d {
+    display:flex;
+    justify-content:center;
+  }
+  .t1{
+   
+   display: flex;
+    justify-content:center;
+  }
+  .th3{
+    top: 350px;
+    position:absolute ;
+    
+  }
+  .tt1{
+    text-align: center;
+    
+  }
+  .t2{
+    text-align: center;
+    margin-top:30px;
+   
+  
+  }
+  .t3{
+    
+    margin-top:50px ;
+    
+    color: rgb(105, 105, 105);
+    font-family:Okra,Helvetica, sans-serif;
+   
+    letter-spacing: -1px;
+     margin-left: 230px;
+     font-size:x-large;
+  }
+  .places{
+    margin-top: 90px;
+  }
+  .icon{
+    font-size: 0.6em;
+    margin-top:7px ;
+    
+  
+   
+  }
+  
+  .card-body {
+  height: 60px;
+  }
+  .imgf{
+    width: 125px;
+  }
+    /*background-color:#f8f8f8;*/
+   
+  .india{
+     margin-right:45px;
+    
+     border: 1px solid;
+  padding-left: 8px;
+  padding-right: 10px;
+  padding-top: 3px;
+  padding-bottom: 3px;
+  border-radius: 6px;
+     float: right;
+  
+    }
+    .flagg{
+      padding-right:9px;
+      width:30px;
+  
+    }
+    .globe{
+      float: right;
+    
+      
+  
+    }
+     .gl{
+  
+  border: 1px solid;
+  padding-left: 8px;
+  padding-right: 8px;
+  padding-top: 3px;
+  padding-bottom: 3px;
+  border-radius: 6px;
+  margin-right: 10px;
+    } 
+    .img5{
+      width: 150px;
+    }
+    .img6{
+      width: 150px;
+    }
+    .color1{
+    background-color: #f8f8f8;;
+  
+    }
+    .last{
+      color:#4f4f4f ;
+    }
+    
+    
+   
